@@ -1,5 +1,5 @@
 {
-    "name": "@Sixstep/designkit",
+    "name": "@sixstep/designkit",
     "version": "0.1.0",
     "description": "Private designkit based on cirrus ui",
     "main": "./dist/designkit.min.css",
@@ -50,7 +50,7 @@
         "gulp-size": "^3.0.0"
     },
     "dependencies": {
-        "@snyk/protect": "^1.707.0",
+        "@snyk/protect": "^1.1266.0",
         "glob": "^10.0.0",
         "global": "^4.4.0",
         "gulp-sass": "^5.1.0",
