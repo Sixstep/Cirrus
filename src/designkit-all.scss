@@ -1,5 +1,5 @@
 // Build file that enables all features/viewports
-@use "cirrus-ext" with (
+@use "designkit-ext" with (
     $config: (
         viewports: (
             CLEARFIX: true,
@@ -36,4 +36,4 @@
     ),
 );
 
-@forward "cirrus-ext";
+@forward "designkit-ext";
