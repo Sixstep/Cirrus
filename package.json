@@ -1,8 +1,8 @@
 {
     "name": "@sixstep/designkit",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "description": "Private designkit based on cirrus ui",
-    "main": "./dist/designkit.min.css",
+    "main": "./dist/designkit-all.min.css",
     "filename": "designkit.min.css",
     "directories": {
         "doc": "docs"
