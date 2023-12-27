@@ -1,6 +1,6 @@
 {
     "name": "@sixstep/designkit",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "Private designkit based on cirrus ui",
     "main": "./dist/designkit.min.css",
     "filename": "designkit.min.css",
