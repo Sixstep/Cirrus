@@ -140,7 +140,7 @@
             --btn-color: transparent;
             --btn-fg: #{hex-to-rgb(fill('dark'))};
             --btn-border-color: transparent;
-            --btn-shadow: 0 0 0 0.2rem rgba(246, 249, 252, 0.5);
+            --btn-shadow: 0 0 0 0;
             --btn-hover-color: 0, 0, 0;
 
             &:hover {
@@ -155,7 +155,7 @@
             --btn-color: #{hex-to-rgb(fill('light'))};
             --btn-fg: #{hex-to-rgb(fill('dark'))};
             --btn-border-color: #{hex-to-rgb(fill('light'))};
-            --btn-shadow: 0 0 0 0.2rem #{transparentize(fill('light'), 0.5)};
+            --btn-shadow: 0 0 0 0;
             --btn-hover-color: #{hex-to-rgb(darken(fill('light'), 10%))};
         }
 
@@ -163,7 +163,7 @@
             --btn-color: 0, 0, 0;
             --btn-fg: #{hex-to-rgb(fill('light'))};
             --btn-border-color: 0, 0, 0;
-            --btn-shadow: 0 0 0 0.2rem #{transparentize(fill('dark'), 0.5)};
+            --btn-shadow: 0;
             --btn-hover-color: 0, 0, 0;
         }
         
@@ -172,7 +172,7 @@
                 --btn-color: #{hex-to-rgb(map-get($value, bg))};
                 --btn-fg: #{hex-to-rgb(map-get($value, fg))};
                 --btn-border-color: #{hex-to-rgb(map-get($value, bg))};
-                --btn-shadow: 0 0 0 0.2rem #{transparentize(map-get($value, bg), 0.5)};
+                --btn-shadow: 0;
                 --btn-hover-color: #{hex-to-rgb(darken(map-get($value, bg), 10%))};
             }
         }

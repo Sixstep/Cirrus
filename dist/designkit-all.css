@@ -12334,7 +12334,7 @@ video.video-fullscreen {
   --btn-color: transparent;
   --btn-fg: 54, 54, 54;
   --btn-border-color: transparent;
-  --btn-shadow: 0 0 0 0.2rem rgba(246, 249, 252, 0.5);
+  --btn-shadow: 0 0 0 0;
   --btn-hover-color: 0, 0, 0;
 }
 
@@ -12350,7 +12350,7 @@ video.video-fullscreen {
   --btn-color: 246, 249, 252;
   --btn-fg: 54, 54, 54;
   --btn-border-color: 246, 249, 252;
-  --btn-shadow: 0 0 0 0.2rem rgba(246, 249, 252, 0.5);
+  --btn-shadow: 0 0 0 0;
   --btn-hover-color: 208, 224, 239;
 }
 
@@ -12358,7 +12358,7 @@ video.video-fullscreen {
   --btn-color: 0, 0, 0;
   --btn-fg: 246, 249, 252;
   --btn-border-color: 0, 0, 0;
-  --btn-shadow: 0 0 0 0.2rem rgba(54, 54, 54, 0.5);
+  --btn-shadow: 0;
   --btn-hover-color: 0, 0, 0;
 }
 
@@ -12366,7 +12366,7 @@ video.video-fullscreen {
   --btn-color: 7, 148, 162;
   --btn-fg: 246, 249, 252;
   --btn-border-color: 7, 148, 162;
-  --btn-shadow: 0 0 0 0.2rem rgba(7, 148, 162, 0.5);
+  --btn-shadow: 0;
   --btn-hover-color: 5, 103, 113;
 }
 
@@ -12374,7 +12374,7 @@ video.video-fullscreen {
   --btn-color: 54, 54, 54;
   --btn-fg: 246, 249, 252;
   --btn-border-color: 54, 54, 54;
-  --btn-shadow: 0 0 0 0.2rem rgba(54, 54, 54, 0.5);
+  --btn-shadow: 0;
   --btn-hover-color: 29, 29, 29;
 }
 
@@ -12382,7 +12382,7 @@ video.video-fullscreen {
   --btn-color: 94, 92, 199;
   --btn-fg: 246, 249, 252;
   --btn-border-color: 94, 92, 199;
-  --btn-shadow: 0 0 0 0.2rem rgba(94, 92, 199, 0.5);
+  --btn-shadow: 0;
   --btn-hover-color: 64, 61, 179;
 }
 
@@ -12390,7 +12390,7 @@ video.video-fullscreen {
   --btn-color: 41, 114, 250;
   --btn-fg: 246, 249, 252;
   --btn-border-color: 41, 114, 250;
-  --btn-shadow: 0 0 0 0.2rem rgba(41, 114, 250, 0.5);
+  --btn-shadow: 0;
   --btn-hover-color: 5, 85, 235;
 }
 
@@ -12398,7 +12398,7 @@ video.video-fullscreen {
   --btn-color: 13, 209, 87;
   --btn-fg: 246, 249, 252;
   --btn-border-color: 13, 209, 87;
-  --btn-shadow: 0 0 0 0.2rem rgba(13, 209, 87, 0.5);
+  --btn-shadow: 0;
   --btn-hover-color: 10, 161, 67;
 }
 
@@ -12406,7 +12406,7 @@ video.video-fullscreen {
   --btn-color: 250, 182, 51;
   --btn-fg: 54, 54, 54;
   --btn-border-color: 250, 182, 51;
-  --btn-shadow: 0 0 0 0.2rem rgba(250, 182, 51, 0.5);
+  --btn-shadow: 0;
   --btn-hover-color: 244, 163, 6;
 }
 
@@ -12414,7 +12414,7 @@ video.video-fullscreen {
   --btn-color: 251, 65, 67;
   --btn-fg: 246, 249, 252;
   --btn-border-color: 251, 65, 67;
-  --btn-shadow: 0 0 0 0.2rem rgba(251, 65, 67, 0.5);
+  --btn-shadow: 0;
   --btn-hover-color: 250, 15, 18;
 }
 
