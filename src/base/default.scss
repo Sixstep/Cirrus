@@ -166,7 +166,7 @@ $generate-reset: should-generate-classes($RESET);
 
     /* When focusing any element */
     :focus {
-        outline: none;
+        outline: 0;
     }
 
     /* Remove all animations based on preference */
