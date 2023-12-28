@@ -1,5 +1,5 @@
 /*
-* Cirrus 0.1.4
+* Cirrus 0.1.6
 * Stanley Lim, Copyright 2023
 * https://spiderpig86.github.io/Cirrus
 */
@@ -256,7 +256,7 @@ fieldset legend {
 
 /* When focusing any element */
 :focus {
-  outline: none;
+  outline: 0;
 }
 
 /* Remove all animations based on preference */
