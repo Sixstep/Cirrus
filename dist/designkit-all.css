@@ -1,5 +1,5 @@
 /*
-* Cirrus 0.1.6
+* Cirrus 0.1.7
 * Stanley Lim, Copyright 2023
 * https://spiderpig86.github.io/Cirrus
 */
@@ -12241,7 +12241,7 @@ video.video-fullscreen {
 }
 
 .btn:focus, button:focus, [type=submit]:focus, [type=reset]:focus, [type=button]:focus {
-  outline: none;
+  outline: 0;
 }
 
 .btn:focus:not([disabled]), button:focus:not([disabled]), [type=submit]:focus:not([disabled]), [type=reset]:focus:not([disabled]), [type=button]:focus:not([disabled]) {

@@ -58,7 +58,7 @@
         }
 
         &:focus {
-            outline: none;
+            outline: 0;
 
             &:not([disabled]) {
                 box-shadow: var(--btn-shadow);
